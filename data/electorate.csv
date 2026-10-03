@@ -1,0 +1,1225 @@
+state,year,eligible,basis,source_url
+Alabama,1980,2753078,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1980,2727483,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1984,2867180,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1984,2831999,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1988,2949934,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1988,2902272,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1992,3096959,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1992,3029105,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1996,3227688,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,1996,3143297,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2000,3334576,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2000,3232759,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2004,3427542,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2004,3309755,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2008,3595708,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2008,3455447,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2012,3705982,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2012,3538042,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2016,3770952,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2016,3609696,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2020,3939759,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2020,3782861,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alabama,2024,4020661,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Alabama,2024,3867406,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Alaska,1980,277261,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1980,270210,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1984,354410,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1984,343113,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1988,369260,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1988,355076,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1992,406653,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1992,389778,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1996,423702,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,1996,404209,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2000,440296,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2000,418238,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2004,476378,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2004,449083,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2008,507645,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2008,479628,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2012,544269,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2012,512270,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2016,554526,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2016,521888,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2020,556443,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2020,529649,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Alaska,2024,560512,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Alaska,2024,536581,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Arizona,1980,1968947,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1980,1890246,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1984,2263826,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1984,2150896,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1988,2609995,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1988,2453008,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1992,2897181,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1992,2671475,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1996,3414380,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,1996,3080990,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2000,3816498,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2000,3363510,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2004,4215706,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2004,3658926,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2008,4673718,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2008,4047095,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2012,4963741,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2012,4391282,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2016,5347427,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2016,4755584,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2020,5672442,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2020,5133804,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arizona,2024,5951329,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Arizona,2024,5366526,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Arkansas,1980,1624917,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1980,1609826,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1984,1689480,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1984,1668969,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1988,1717388,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1988,1689759,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1992,1789420,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1992,1751557,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1996,1903094,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,1996,1845189,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2000,2001774,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2000,1920954,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2004,2072986,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2004,1972057,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2008,2174846,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2008,2071520,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2012,2244163,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2012,2111810,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2016,2287921,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2016,2142344,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2020,2332442,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2020,2178328,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Arkansas,2024,2391789,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Arkansas,2024,2201764,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+California,1980,17551451,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1980,15616072,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1984,19270739,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1984,16614618,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1988,21249801,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1988,17745548,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1992,22573381,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1992,18470965,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1996,23076427,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,1996,18653967,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2000,24867252,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2000,19911561,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2004,26246548,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2004,21035883,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2008,27411094,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2008,22270461,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2012,28871296,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2012,23638949,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2016,30130155,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2016,25058420,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2020,30490123,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2020,25840035,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+California,2024,30601993,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+California,2024,25922868,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Colorado,1980,2118092,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1980,2072174,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1984,2325829,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1984,2267395,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1988,2396786,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1988,2326962,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1992,2602217,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1992,2494304,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1996,2939929,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,1996,2771276,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2000,3246521,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2000,3006671,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2004,3443164,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2004,3157788,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2008,3708955,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2008,3383138,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2012,3980623,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2012,3675695,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2016,4301685,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2016,3971805,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2020,4579181,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2020,4297225,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Colorado,2024,4728091,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Colorado,2024,4415631,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Connecticut,1980,2305904,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1980,2200549,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1984,2431057,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1984,2301457,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1988,2525021,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1988,2379976,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1992,2521774,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1992,2356994,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1996,2528212,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,1996,2337497,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2000,2575243,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2000,2361236,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2004,2652587,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2004,2436378,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2008,2725917,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2008,2472389,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2012,2804156,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2012,2546075,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2016,2827488,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2016,2589090,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2020,2887773,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2020,2655214,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Connecticut,2024,2912979,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Connecticut,2024,2670153,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Delaware,1980,430879,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1980,421304,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1984,455312,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1984,442263,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1988,489696,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1988,472293,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1992,523661,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1992,499514,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1996,559598,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,1996,528845,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2000,594256,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2000,553554,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2004,635370,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2004,588633,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2008,680493,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2008,628468,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2012,714081,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2012,662162,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2016,748217,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2016,690153,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2020,798104,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2020,745131,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Delaware,2024,835621,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Delaware,2024,776224,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+District of Columbia,1980,496230,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1980,470755,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1984,505550,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1984,471707,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1988,502362,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1988,453412,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1992,477564,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1992,427081,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1996,450182,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,1996,398939,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2000,458301,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2000,404098,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2004,458758,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2004,412882,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2008,481971,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2008,432328,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2012,531080,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2012,479566,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2016,565352,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2016,517863,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2020,544795,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2020,503118,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+District of Columbia,2024,561851,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+District of Columbia,2024,506415,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Florida,1980,7575002,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1980,7086641,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1984,8656427,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1984,7976056,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1988,9651236,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1988,8778408,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1992,10591116,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1992,9507130,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1996,11509122,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,1996,10224190,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2000,12475387,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2000,10952576,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2004,13643828,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2004,11885513,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2008,14558436,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2008,12683359,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2012,15367936,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2012,13484046,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2016,16533216,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2016,14577798,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2020,17593558,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2020,15742624,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Florida,2024,18664571,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Florida,2024,16327632,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Georgia,1980,3870251,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1980,3790847,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1984,4243165,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1984,4120325,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1988,4631342,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1988,4461734,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1992,5037354,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1992,4766384,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1996,5555577,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,1996,5183118,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2000,6087332,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2000,5501687,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2004,6499325,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2004,5775727,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2008,7063638,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2008,6285008,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2012,7441387,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2012,6593817,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2016,7831741,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2016,6960129,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2020,8282660,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2020,7490838,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Georgia,2024,8647469,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Georgia,2024,7793977,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Hawaii,1980,695906,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1980,646903,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1984,750909,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1984,694128,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1988,803568,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1988,740197,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1992,866114,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1992,794765,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1996,895753,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,1996,820082,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2000,923737,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2000,843861,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2004,982882,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2004,899288,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2008,1036088,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2008,929632,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2012,1091451,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2012,985494,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2016,1120762,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2016,1013299,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2020,1145618,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2020,1047466,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Hawaii,2024,1140526,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Hawaii,2024,1038968,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Idaho,1980,644004,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1980,633527,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1984,675772,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1984,663031,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1988,682522,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1988,667291,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1992,756119,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1992,734960,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1996,856420,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,1996,825183,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2000,935443,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2000,875400,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2004,1016255,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2004,943617,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2008,1117842,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2008,1029341,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2012,1172481,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2012,1089963,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2016,1256143,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2016,1169396,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2020,1443536,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2020,1352914,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Idaho,2024,1532761,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Idaho,2024,1429619,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Illinois,1980,8216218,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1980,7867454,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1984,8327065,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1984,7918579,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1988,8410414,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1988,7951991,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1992,8688184,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1992,8117877,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1996,8927254,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,1996,8218858,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2000,9208908,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2000,8362452,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2004,9391420,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2004,8501813,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2008,9615700,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2008,8685582,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2012,9838883,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2012,8913874,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2016,9887574,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2016,9005114,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2020,9910732,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2020,9095238,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Illinois,2024,9862416,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Illinois,2024,8982526,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Indiana,1980,3885473,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1980,3847706,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1984,3960870,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1984,3915894,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1988,4045785,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1988,3997967,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1992,4230602,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1992,4161659,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1996,4397367,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,1996,4301254,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2000,4527523,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2000,4403265,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2004,4660157,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2004,4510573,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2008,4826231,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2008,4653122,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2012,4959521,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2012,4752712,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2016,5072700,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2016,4860062,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2020,5240144,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2020,5025421,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Indiana,2024,5321237,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Indiana,2024,5041013,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Iowa,1980,2093321,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1980,2071140,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1984,2084995,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1984,2057855,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1988,2052326,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1988,2022326,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1992,2098809,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1992,2057899,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1996,2154320,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,1996,2099307,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2000,2199529,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2000,2125448,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2004,2239979,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2004,2158396,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2008,2298515,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2008,2216929,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2012,2356497,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2012,2251922,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2016,2404019,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2016,2285860,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2020,2469708,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2020,2360125,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Iowa,2024,2491222,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Iowa,2024,2359332,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Kansas,1980,1726471,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1980,1704986,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1984,1779487,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1984,1752110,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1988,1808604,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1988,1773849,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1992,1857444,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1992,1810552,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1996,1922601,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,1996,1857167,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2000,1983933,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2000,1894387,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2004,2032763,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2004,1924522,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2008,2100084,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2008,1992730,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2012,2162245,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2012,2030640,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2016,2196904,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2016,2058729,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2020,2242018,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2020,2112458,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kansas,2024,2257952,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Kansas,2024,2122704,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Kentucky,1980,2592185,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1980,2561316,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1984,2672424,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1984,2643173,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1988,2709782,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1988,2679262,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1992,2814763,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1992,2772822,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1996,2938362,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,1996,2879726,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2000,3059582,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2000,2984345,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2004,3157464,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2004,3061375,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2008,3277617,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2008,3152147,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2012,3374444,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2012,3235034,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2016,3430752,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2016,3282543,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2020,3499169,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2020,3339511,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Kentucky,2024,3531795,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Kentucky,2024,3327188,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Louisiana,1980,2910776,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1980,2869868,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1984,3072074,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1984,3018478,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1988,3005785,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1988,2940075,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1992,3063068,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1992,2996142,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1996,3163302,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,1996,3089076,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2000,3260060,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2000,3131905,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2004,3379937,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2004,3238731,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2008,3342279,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2008,3204721,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2012,3495424,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2012,3310167,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2016,3563801,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2016,3378229,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2020,3552258,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2020,3382286,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Louisiana,2024,3500993,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Louisiana,2024,3305398,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Maine,1980,810240,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1980,799707,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1984,852022,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1984,840094,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1988,901850,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1988,888322,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1992,928998,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1992,915063,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1996,944106,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,1996,929944,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2000,979314,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2000,964624,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2004,1022043,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2004,1005690,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2008,1049816,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2008,1036168,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2012,1063754,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2012,1044606,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2016,1079197,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2016,1059772,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2020,1127932,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2020,1106276,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maine,2024,1157850,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Maine,2024,1130059,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Maryland,1980,3081409,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1980,2963213,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1984,3278321,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1984,3114274,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1988,3535730,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1988,3324418,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1992,3695298,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1992,3439719,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1996,3817454,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,1996,3530104,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2000,3972224,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2000,3640036,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2004,4179376,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2004,3802045,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2008,4342850,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2008,3925994,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2012,4552894,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2012,4062401,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2016,4663738,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2016,4182300,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2020,4820237,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2020,4416326,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Maryland,2024,4845926,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Maryland,2024,4411216,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Massachusetts,1980,4281265,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1980,4110014,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1984,4486676,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1984,4271316,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1988,4642061,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1988,4386748,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1992,4640629,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1992,4348269,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1996,4723380,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,1996,4383297,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2000,4870470,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2000,4480832,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2004,4935787,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2004,4510816,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2008,5058035,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2008,4611636,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2012,5278131,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2012,4824485,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2016,5453921,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2016,4959742,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2020,5638722,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2020,5129755,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Massachusetts,2024,5695621,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Massachusetts,2024,5132767,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Michigan,1980,6514790,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1980,6375885,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1984,6550877,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1984,6405255,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1988,6773776,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1988,6610688,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1992,6990822,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1992,6783929,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1996,7201527,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,1996,6957535,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2000,7370524,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2000,7079579,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2004,7508568,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2004,7204686,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2008,7528460,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2008,7231283,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2012,7637478,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2012,7327148,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2016,7765389,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2016,7437567,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2020,7907056,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2020,7615249,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Michigan,2024,7959215,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Michigan,2024,7624237,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Minnesota,1980,2929927,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1980,2883593,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1984,3039490,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1984,2980672,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1988,3166668,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1988,3086279,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1992,3298080,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1992,3186628,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1996,3473117,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,1996,3319761,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2000,3662005,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2000,3459248,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2004,3819020,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2004,3600480,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2008,3975974,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2008,3740671,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2012,4111021,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2012,3857424,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2016,4242668,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2016,3975066,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2020,4408498,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2020,4157411,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Minnesota,2024,4479893,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Minnesota,2024,4277436,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Mississippi,1980,1719825,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1980,1704320,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1984,1787243,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1984,1765799,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1988,1815826,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1988,1792759,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1992,1882100,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1992,1855529,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1996,1986327,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,1996,1950063,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2000,2076861,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2000,2026696,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2004,2133681,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2004,2075007,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2008,2190402,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2008,2113435,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2012,2245738,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2012,2166636,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2016,2268353,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2016,2192233,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2020,2265253,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2020,2185433,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Mississippi,2024,2268545,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Mississippi,2024,2164463,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Missouri,1980,3571609,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1980,3529787,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1984,3671506,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1984,3617211,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1988,3769751,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1988,3695076,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1992,3880005,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1992,3793113,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1996,4035666,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,1996,3918848,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2000,4190073,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2000,4048057,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2004,4339414,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2004,4181874,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2008,4507688,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2008,4325788,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2012,4627371,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2012,4430901,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2016,4709176,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2016,4516733,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2020,4800088,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2020,4620290,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Missouri,2024,4856207,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Missouri,2024,4642204,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Montana,1980,559165,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1980,554512,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1984,584162,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1984,579109,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1988,573791,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1988,567929,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1992,599859,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1992,593512,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1996,652991,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,1996,644821,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2000,676065,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2000,666875,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2004,711858,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2004,700939,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2008,755384,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2008,742019,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2012,783676,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2012,773031,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2016,816023,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2016,802436,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2020,873659,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2020,857955,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Montana,2024,911605,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Montana,2024,896053,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Nebraska,1980,1129653,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1980,1114888,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1984,1152310,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1984,1134531,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1988,1144305,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1988,1125697,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1992,1178965,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1992,1149198,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1996,1230047,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,1996,1188139,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2000,1266496,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2000,1208322,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2004,1305430,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2004,1239369,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2008,1348048,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2008,1275336,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2012,1394124,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2012,1315193,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2016,1435123,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2016,1342336,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2020,1484568,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2020,1400069,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nebraska,2024,1512908,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Nebraska,2024,1406843,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Nevada,1980,602463,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1980,572978,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1984,697185,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1984,657129,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1988,823940,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1988,768126,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1992,1028056,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1992,940474,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1996,1271617,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,1996,1134278,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2000,1523209,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2000,1323256,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2004,1776962,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2004,1521561,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2008,2000277,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2008,1696872,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2012,2099011,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2012,1795581,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2016,2260341,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2016,1948712,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2020,2455546,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2020,2191188,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Nevada,2024,2541020,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Nevada,2024,2249102,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Hampshire,1980,671558,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1980,660487,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1984,732480,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1984,718714,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1988,817358,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1988,800809,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1992,833997,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1992,813872,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1996,878569,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,1996,855421,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2000,934176,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2000,906696,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2004,984422,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2004,950479,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2008,1021787,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2008,992519,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2012,1050220,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2012,1016041,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2016,1082981,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2016,1048757,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2020,1132908,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2020,1101294,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Hampshire,2024,1158408,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Hampshire,2024,1127497,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Jersey,1980,5420255,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1980,5125248,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1984,5699440,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1984,5318500,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1988,5904776,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1988,5432995,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1992,6000364,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1992,5401515,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1996,6152216,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,1996,5456627,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2000,6356954,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2000,5550891,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2004,6513394,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2004,5637382,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2008,6651284,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2008,5774838,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2012,6826144,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2012,5902545,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2016,6903418,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2016,5961240,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2020,7261675,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2020,6435019,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Jersey,2024,7330478,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Jersey,2024,6401643,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Mexico,1980,897946,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1980,873733,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1984,990632,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1984,956618,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1988,1046754,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1988,1002360,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1992,1131081,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1992,1073250,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1996,1249597,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,1996,1172766,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2000,1318129,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2000,1221526,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2004,1411419,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2004,1289094,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2008,1505830,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2008,1362140,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2012,1576959,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2012,1438878,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2016,1600627,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2016,1473243,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2020,1649222,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2020,1534600,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New Mexico,2024,1675845,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New Mexico,2024,1554606,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New York,1980,12932357,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1980,12011490,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1984,13373558,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1984,12232979,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1988,13659215,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1988,12296727,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1992,13799670,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1992,12225165,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1996,13942462,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,1996,12170405,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2000,14344348,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2000,12394560,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2004,14598898,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2004,12640317,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2008,14876971,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2008,12945767,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2012,15334363,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2012,13321457,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2016,15473628,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2016,13525950,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2020,15787812,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2020,14081957,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+New York,2024,15566053,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+New York,2024,13853326,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+North Carolina,1980,4272156,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1980,4202008,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1984,4598151,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1984,4510205,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1988,4903045,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1988,4792261,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1992,5259564,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1992,5076318,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1996,5717844,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,1996,5434908,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2000,6143214,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2000,5772767,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2004,6505150,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2004,6066809,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2008,7096503,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2008,6581783,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2012,7500448,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2012,6952078,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2016,7898733,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2016,7370213,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2020,8284274,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2020,7811002,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Carolina,2024,8674601,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+North Carolina,2024,8102246,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+North Dakota,1980,465447,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1980,462401,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1984,486449,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1984,482612,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1988,470652,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1988,466891,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1992,467130,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1992,462449,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1996,481497,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,1996,475960,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2000,482078,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2000,475217,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2004,496479,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2004,488759,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2008,512768,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2008,504650,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2012,548770,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2012,537941,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2016,579842,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2016,565295,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2020,594772,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2020,577567,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+North Dakota,2024,605359,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+North Dakota,2024,582216,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Ohio,1980,7732705,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1980,7634156,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1984,7836806,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1984,7731982,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1988,7986220,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1988,7871910,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1992,8208502,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1992,8063413,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1996,8366250,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,1996,8188251,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2000,8487355,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2000,8288750,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2004,8624277,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2004,8407021,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2008,8757453,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2008,8513103,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2012,8894484,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2012,8648493,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2016,9028098,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2016,8759758,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2020,9184163,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2020,8906277,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Ohio,2024,9261250,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Ohio,2024,8947502,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Oklahoma,1980,2201257,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1980,2162835,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1984,2373014,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1984,2325381,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1988,2300258,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1988,2246781,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1992,2366029,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1992,2292910,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1996,2461718,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,1996,2369301,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2000,2568304,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2000,2453332,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2004,2649994,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2004,2516580,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2008,2770219,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2008,2618039,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2012,2886686,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2012,2715732,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2016,2972077,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2016,2784673,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2020,3040979,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2020,2875494,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oklahoma,2024,3131836,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Oklahoma,2024,2945902,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Oregon,1980,1925651,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1980,1880110,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1984,1962501,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1984,1907252,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1988,2055379,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1988,1981881,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1992,2241507,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1992,2145264,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1996,2445442,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,1996,2309618,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2000,2595354,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2000,2418671,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2004,2736472,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2004,2537173,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2008,2916246,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2008,2700858,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2012,3046864,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2012,2832164,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2016,3233909,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2016,3015007,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2020,3405290,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2020,3204224,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Oregon,2024,3412120,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Oregon,2024,3211515,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Pennsylvania,1980,8774885,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1980,8661415,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1984,8918353,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1984,8789324,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1988,9037056,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1988,8892637,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1992,9188416,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1992,9007239,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1996,9283893,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,1996,9063678,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2000,9375146,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2000,9113295,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2004,9554349,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2004,9255690,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2008,9813664,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2008,9460225,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2012,10037436,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2012,9656146,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2016,10114662,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2016,9692322,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2020,10363451,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2020,9950392,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Pennsylvania,2024,10350349,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Pennsylvania,2024,9903829,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Rhode Island,1980,709692,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1980,675354,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1984,739064,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1984,697661,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1988,771407,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1988,721720,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1992,779266,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1992,721459,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1996,781307,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,1996,717236,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2000,804417,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2000,734834,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2004,827513,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2004,747510,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2008,825786,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2008,763936,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2012,838169,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2012,772057,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2016,848850,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2016,785544,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2020,890532,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2020,828194,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Rhode Island,2024,897523,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Rhode Island,2024,826559,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+South Carolina,1980,2212354,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1980,2177799,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1984,2368236,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1984,2329803,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1988,2504635,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1988,2453954,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1992,2683852,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1992,2609884,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1996,2825088,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,1996,2730371,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2000,3025380,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2000,2910350,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2004,3198733,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2004,3066549,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2008,3473488,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2008,3309462,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2012,3656261,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2012,3481760,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2016,3881185,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2016,3705927,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2020,4087762,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2020,3914642,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Carolina,2024,4337447,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+South Carolina,2024,4121955,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+South Dakota,1980,486893,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1980,484310,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1984,497849,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1984,494439,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1988,497633,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1988,494125,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1992,508841,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1992,503792,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1996,537038,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,1996,529605,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2000,554875,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2000,545601,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2004,576472,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2004,565300,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2008,602539,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2008,590607,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2012,630180,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2012,611872,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2016,651179,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2016,628468,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2020,678680,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2020,651554,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+South Dakota,2024,709340,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+South Dakota,2024,676581,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Tennessee,1980,3318036,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1980,3286762,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1984,3463234,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1984,3416825,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1988,3609081,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1988,3552415,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1992,3811036,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1992,3726140,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1996,4094014,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,1996,3985449,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2000,4316391,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2000,4170830,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2004,4496929,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2004,4322069,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2008,4771926,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2008,4562424,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2012,4975501,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2012,4735888,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2016,5162937,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2016,4906550,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2020,5439926,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2020,5174225,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Tennessee,2024,5651068,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Tennessee,2024,5317723,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Texas,1980,10120613,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1980,9572302,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1984,11397758,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1984,10587030,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1988,11877787,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1988,10831136,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1992,12747860,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1992,11353324,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1996,13887542,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,1996,12066921,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2000,15138468,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2000,12913321,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2004,16284659,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2004,13763508,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2008,17756112,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2008,14921530,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2012,19204782,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2012,16127383,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2016,20718271,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2016,17482785,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2020,22157381,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2020,18982171,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Texas,2024,23513616,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Texas,2024,20059077,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Utah,1980,934767,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1980,915137,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1984,1022083,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1984,998575,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1988,1069800,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1988,1043055,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1992,1203861,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1992,1162930,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1996,1394017,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,1996,1327104,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2000,1534950,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2000,1435686,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2004,1664066,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2004,1545108,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2008,1840087,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2008,1701049,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2012,1976573,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2012,1831602,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2016,2139328,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2016,1985869,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2020,2402151,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2020,2255175,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Utah,2024,2545169,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Utah,2024,2357958,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Vermont,1980,369147,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1980,363241,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1984,387620,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1984,381418,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1988,411136,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1988,404969,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1992,426860,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1992,419603,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1996,443874,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,1996,435884,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2000,463503,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2000,454233,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2004,480053,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2004,469972,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2008,492610,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2008,482758,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2012,501853,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2012,492820,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2016,505888,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2016,494758,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2020,531104,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2020,520641,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Vermont,2024,535384,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Vermont,2024,527067,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Virginia,1980,3927383,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1980,3829400,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1984,4234017,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1984,4098763,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1988,4571637,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1988,4395612,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1992,4856799,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1992,4623058,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1996,5106297,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,1996,4813918,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2000,5389008,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2000,5034930,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2004,5699175,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2004,5284227,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2008,6022123,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2008,5557344,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2012,6345002,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2012,5828032,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2016,6556247,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2016,6030589,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2020,6785517,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2020,6300717,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Virginia,2024,6891962,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Virginia,2024,6350428,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Washington,1980,3037193,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1980,2923782,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1984,3213263,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1984,3072347,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1988,3465082,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1988,3281254,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1992,3827227,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1992,3577619,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1996,4147127,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,1996,3830617,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2000,4419907,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2000,4022625,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2004,4683829,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2004,4257936,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2008,5032960,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2008,4560012,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2012,5329262,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2012,4820193,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2016,5693791,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2016,5123557,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2020,6079926,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2020,5465496,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Washington,2024,6226585,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Washington,2024,5640909,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+West Virginia,1980,1396595,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1980,1386555,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1984,1401733,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1984,1392024,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1988,1358249,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1988,1348148,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1992,1377282,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1992,1364890,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1996,1400343,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,1996,1386888,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2000,1405021,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2000,1388515,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2004,1425689,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2004,1407450,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2008,1453045,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2008,1430218,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2012,1472182,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2012,1446756,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2016,1454560,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2016,1424155,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2020,1430595,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2020,1403699,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+West Virginia,2024,1416183,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+West Virginia,2024,1387010,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Wisconsin,1980,3371087,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1980,3321213,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1984,3468053,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1984,3409864,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1988,3558322,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1988,3488430,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1992,3712414,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1992,3619052,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1996,3886906,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,1996,3764309,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2000,4016401,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2000,3862851,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2004,4172068,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2004,3995149,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2008,4306876,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2008,4120029,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2012,4411462,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2012,4203731,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2016,4493054,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2016,4280628,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2020,4621234,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2020,4410780,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wisconsin,2024,4704055,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Wisconsin,2024,4483698,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Wyoming,1980,330784,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1980,326649,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1984,343957,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1984,338587,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1988,320695,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1988,315117,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1992,331170,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1992,324405,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1996,353354,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,1996,345181,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2000,366639,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2000,356887,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2004,386796,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2004,375525,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2008,418040,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2008,405766,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2012,441429,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2012,424733,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2016,446228,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2016,429694,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2020,448142,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2020,430161,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv
+Wyoming,2024,459772,VAP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv
+Wyoming,2024,442780,VEP,https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv

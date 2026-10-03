@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+factsheet-build/gdoc/out/
+out/
+factsheet-build/facts.json

@@ -1,0 +1,237 @@
+amendment,state,action,date,source_url
+CONST,Delaware,ratify,1787-12-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Pennsylvania,ratify,1787-12-12,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,New Jersey,ratify,1787-12-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Georgia,ratify,1788-01-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Connecticut,ratify,1788-01-09,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Massachusetts,ratify,1788-02-06,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Maryland,ratify,1788-04-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,South Carolina,ratify,1788-05-23,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,New Hampshire,ratify,1788-06-21,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Virginia,ratify,1788-06-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,New York,ratify,1788-07-26,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,North Carolina,ratify,1789-11-21,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Rhode Island,ratify,1790-05-29,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+CONST,Rhode Island,reject,1788-03-24,https://en.wikipedia.org/wiki/Timeline_of_drafting_and_ratification_of_the_United_States_Constitution
+1,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+1,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+1,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+2,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+2,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+3,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+3,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+4,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+4,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+5,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+5,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+6,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+6,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+7,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+7,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+8,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+8,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+9,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+9,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,New Jersey,ratify,1789-11-20,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Maryland,ratify,1789-12-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,North Carolina,ratify,1789-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,South Carolina,ratify,1790-01-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,New Hampshire,ratify,1790-01-25,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Delaware,ratify,1790-01-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,New York,ratify,1790-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Pennsylvania,ratify,1790-03-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Rhode Island,ratify,1790-06-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Vermont,ratify,1791-11-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Virginia,ratify,1791-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Kentucky,ratify_late,1792-06-27,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
+10,Massachusetts,ratify_late,1939-03-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Georgia,ratify_late,1939-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+10,Connecticut,ratify_late,1939-04-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,New York,ratify,1794-03-27,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Rhode Island,ratify,1794-03-31,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Connecticut,ratify,1794-05-08,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,New Hampshire,ratify,1794-06-16,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Massachusetts,ratify,1794-06-26,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Vermont,ratify,1794-11-09,https://en.wikipedia.org/wiki/Eleventh_Amendment_to_the_United_States_Constitution
+11,Virginia,ratify,1794-11-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Georgia,ratify,1794-11-29,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Kentucky,ratify,1794-12-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Maryland,ratify,1794-12-26,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,Delaware,ratify,1795-01-23,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,North Carolina,ratify,1795-02-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+11,South Carolina,ratify_late,1797-12-04,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,North Carolina,ratify,1803-12-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Maryland,ratify,1803-12-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Kentucky,ratify,1803-12-27,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Ohio,ratify,1803-12-30,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution
+12,Pennsylvania,ratify,1804-01-05,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Vermont,ratify,1804-01-30,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Virginia,ratify,1804-02-03,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution
+12,New York,ratify,1804-02-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,New Jersey,ratify,1804-02-22,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Rhode Island,ratify,1804-03-12,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution
+12,South Carolina,ratify,1804-05-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Georgia,ratify,1804-05-19,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,New Hampshire,ratify,1804-06-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Tennessee,ratify_late,1804-07-27,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Massachusetts,ratify_late,1961,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Delaware,reject,1804-01-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Massachusetts,reject,1804-02-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+12,Connecticut,reject,1804-05-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Illinois,ratify,1865-02-01,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Rhode Island,ratify,1865-02-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Michigan,ratify,1865-02-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Maryland,ratify,1865-02-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,New York,ratify,1865-02-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,West Virginia,ratify,1865-02-03,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Missouri,ratify,1865-02-06,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Maine,ratify,1865-02-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Kansas,ratify,1865-02-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Massachusetts,ratify,1865-02-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Pennsylvania,ratify,1865-02-08,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Virginia,ratify,1865-02-09,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Ohio,ratify,1865-02-10,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Louisiana,ratify,1865-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Indiana,ratify,1865-02-16,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Nevada,ratify,1865-02-16,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Minnesota,ratify,1865-02-23,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Wisconsin,ratify,1865-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Vermont,ratify,1865-03-09,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Tennessee,ratify,1865-04-07,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Arkansas,ratify,1865-04-14,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Connecticut,ratify,1865-05-04,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,New Hampshire,ratify,1865-06-30,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,South Carolina,ratify,1865-11-13,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Alabama,ratify,1865-12-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,North Carolina,ratify,1865-12-04,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Georgia,ratify,1865-12-06,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Oregon,ratify_late,1865-12-11,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,California,ratify_late,1865-12-15,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Florida,ratify_late,1865-12-28,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Florida,ratify_late,1868-06-09,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Iowa,ratify_late,1866-01-17,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,New Jersey,ratify_late,1866-01-23,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Texas,ratify_late,1870-02-17,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Delaware,ratify_late,1901-02-12,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Kentucky,ratify_late,1976-03-18,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Mississippi,ratify_late,1995-03-16,https://www.archives.gov/files/foia/pdf/13th-amendment.pdf
+13,New Jersey,reject,1865-03-16,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Delaware,reject,1865-02-08,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Kentucky,reject,1865-02-24,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm
+13,Mississippi,reject,1865-12-02,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm

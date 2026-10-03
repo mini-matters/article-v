@@ -1,0 +1,52 @@
+state,land_sq_mi,water_sq_mi,total_sq_mi,source_url
+Alabama,50651.03,1769.05,52420.08,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Alaska,571241.61,94483.26,665724.87,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Arizona,113655.39,329.73,113985.12,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Arkansas,51991.94,1205.69,53197.63,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+California,155859.18,7834.64,163693.83,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Colorado,103637.15,457.74,104094.89,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Connecticut,4842.49,701.21,5543.7,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Delaware,1948.54,540.24,2488.78,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+District of Columbia,61.13,7.22,68.35,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Florida,53654.83,17748.7,71403.53,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Georgia,57716.78,1706.27,59423.05,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Hawaii,6422.59,4547.27,10969.86,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Idaho,82645.36,923.17,83568.53,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Illinois,55513.08,2400.34,57913.41,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Indiana,35825.14,596.11,36421.25,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Iowa,55853.67,419.05,56272.72,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Kansas,81758.61,519.56,82278.17,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Kentucky,39485.42,920.52,40405.94,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Louisiana,43212.89,9162.5,52375.39,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Maine,30845.08,4534.8,35379.88,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Maryland,9710.94,2694.93,12405.87,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Massachusetts,7800.96,2753.16,10554.12,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Michigan,56610.96,40102.28,96713.24,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Minnesota,79631.56,7311.71,86943.27,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Mississippi,46924.58,1511.32,48435.91,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Missouri,68746.42,960.38,69706.8,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Montana,145550.25,1493.04,147043.29,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Nebraska,76815.01,532.42,77347.42,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Nevada,109860.37,710.38,110570.75,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+New Hampshire,8953.79,396.09,9349.88,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+New Jersey,7354.95,1364.24,8719.19,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+New Mexico,121312.73,280.52,121593.24,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+New York,47123.44,7435.07,54558.52,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+North Carolina,48624.15,5194.41,53818.56,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+North Dakota,68994.26,1704.55,70698.82,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Ohio,40858.93,3966.9,44825.83,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Oklahoma,68596.7,1302.42,69899.12,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Oregon,95996.74,2381.77,98378.51,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Pennsylvania,44742.09,1311.83,46053.91,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Rhode Island,1033.89,511.08,1544.97,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+South Carolina,30064.1,1959.38,32023.48,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+South Dakota,75807.94,1307.95,77115.89,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Tennessee,41224.34,905.55,42129.89,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Texas,261258.61,7340.43,268599.04,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Utah,82595.7,2302.39,84898.09,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Vermont,9217.26,397.93,9615.19,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Virginia,39481.39,3293.42,42774.81,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Washington,66455.44,4845.24,71300.67,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+West Virginia,24041.24,188.77,24230.01,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Wisconsin,54168.03,11328.68,65496.71,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip
+Wyoming,97088.55,721.25,97809.8,https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip

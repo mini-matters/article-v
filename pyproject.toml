@@ -1,0 +1,12 @@
+[project]
+name = "article-v-measured"
+version = "0.1.0"
+description = "Article V's ratification rule restated in population and state legislators"
+requires-python = ">=3.12"
+dependencies = ["numpy", "pandas", "tabulate", "matplotlib"]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false

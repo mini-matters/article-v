@@ -1,0 +1,1014 @@
+amendment,state,action,date,date_precision,source_url,source_file
+CONST,Delaware,ratify,1787-12-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Pennsylvania,ratify,1787-12-12,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,New Jersey,ratify,1787-12-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Georgia,ratify,1788-01-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Connecticut,ratify,1788-01-09,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Massachusetts,ratify,1788-02-06,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Maryland,ratify,1788-04-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,South Carolina,ratify,1788-05-23,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,New Hampshire,ratify,1788-06-21,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Virginia,ratify,1788-06-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,New York,ratify,1788-07-26,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,North Carolina,ratify,1789-11-21,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Rhode Island,ratify,1790-05-29,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+CONST,Rhode Island,reject,1788-03-24,day,https://en.wikipedia.org/wiki/Timeline_of_drafting_and_ratification_of_the_United_States_Constitution,ratifications_01_13.csv
+1,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+1,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+1,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+2,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+2,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+3,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+3,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+4,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+4,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+5,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+5,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+6,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+6,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+7,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+7,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+8,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+8,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+9,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+9,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,New Jersey,ratify,1789-11-20,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Maryland,ratify,1789-12-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,North Carolina,ratify,1789-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,South Carolina,ratify,1790-01-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,New Hampshire,ratify,1790-01-25,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Delaware,ratify,1790-01-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,New York,ratify,1790-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Pennsylvania,ratify,1790-03-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Rhode Island,ratify,1790-06-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Vermont,ratify,1791-11-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Virginia,ratify,1791-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Kentucky,ratify_late,1792-06-27,day,https://en.wikipedia.org/wiki/United_States_Bill_of_Rights,ratifications_01_13.csv
+10,Massachusetts,ratify_late,1939-03-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Georgia,ratify_late,1939-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+10,Connecticut,ratify_late,1939-04-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,New York,ratify,1794-03-27,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Rhode Island,ratify,1794-03-31,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Connecticut,ratify,1794-05-08,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,New Hampshire,ratify,1794-06-16,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Massachusetts,ratify,1794-06-26,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Vermont,ratify,1794-11-09,day,https://en.wikipedia.org/wiki/Eleventh_Amendment_to_the_United_States_Constitution,ratifications_01_13.csv
+11,Virginia,ratify,1794-11-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Georgia,ratify,1794-11-29,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Kentucky,ratify,1794-12-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Maryland,ratify,1794-12-26,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,Delaware,ratify,1795-01-23,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,North Carolina,ratify,1795-02-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+11,South Carolina,ratify_late,1797-12-04,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,North Carolina,ratify,1803-12-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Maryland,ratify,1803-12-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Kentucky,ratify,1803-12-27,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Ohio,ratify,1803-12-30,day,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution,ratifications_01_13.csv
+12,Pennsylvania,ratify,1804-01-05,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Vermont,ratify,1804-01-30,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Virginia,ratify,1804-02-03,day,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution,ratifications_01_13.csv
+12,New York,ratify,1804-02-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,New Jersey,ratify,1804-02-22,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Rhode Island,ratify,1804-03-12,day,https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution,ratifications_01_13.csv
+12,South Carolina,ratify,1804-05-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Georgia,ratify,1804-05-19,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,New Hampshire,ratify,1804-06-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Tennessee,ratify_late,1804-07-27,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Massachusetts,ratify_late,1961-07-01,year,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Delaware,reject,1804-01-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Massachusetts,reject,1804-02-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+12,Connecticut,reject,1804-05-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Illinois,ratify,1865-02-01,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Rhode Island,ratify,1865-02-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Michigan,ratify,1865-02-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Maryland,ratify,1865-02-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,New York,ratify,1865-02-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,West Virginia,ratify,1865-02-03,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Missouri,ratify,1865-02-06,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Maine,ratify,1865-02-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Kansas,ratify,1865-02-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Massachusetts,ratify,1865-02-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Pennsylvania,ratify,1865-02-08,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Virginia,ratify,1865-02-09,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Ohio,ratify,1865-02-10,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Louisiana,ratify,1865-02-15,month,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Indiana,ratify,1865-02-16,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Nevada,ratify,1865-02-16,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Minnesota,ratify,1865-02-23,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Wisconsin,ratify,1865-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Vermont,ratify,1865-03-09,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Tennessee,ratify,1865-04-07,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Arkansas,ratify,1865-04-14,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Connecticut,ratify,1865-05-04,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,New Hampshire,ratify,1865-06-30,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,South Carolina,ratify,1865-11-13,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Alabama,ratify,1865-12-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,North Carolina,ratify,1865-12-04,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Georgia,ratify,1865-12-06,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Oregon,ratify_late,1865-12-11,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,California,ratify_late,1865-12-15,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Florida,ratify_late,1865-12-28,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Florida,ratify_late,1868-06-09,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Iowa,ratify_late,1866-01-17,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,New Jersey,ratify_late,1866-01-23,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Texas,ratify_late,1870-02-17,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Delaware,ratify_late,1901-02-12,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Kentucky,ratify_late,1976-03-18,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Mississippi,ratify_late,1995-03-16,day,https://www.archives.gov/files/foia/pdf/13th-amendment.pdf,ratifications_01_13.csv
+13,New Jersey,reject,1865-03-16,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Delaware,reject,1865-02-08,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Kentucky,reject,1865-02-24,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+13,Mississippi,reject,1865-12-02,day,https://www.govinfo.gov/content/pkg/SMAN-107/html/SMAN-107-pg973.htm,ratifications_01_13.csv
+14,Connecticut,ratify,1866-06-30,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,New Hampshire,ratify,1866-07-06,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Tennessee,ratify,1866-07-19,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,New Jersey,ratify,1866-09-11,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Oregon,ratify,1866-09-19,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Texas,reject,1866-10-27,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Vermont,ratify,1866-10-30,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Georgia,reject,1866-11-09,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,North Carolina,reject,1866-12-14,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,South Carolina,reject,1866-12-20,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Kentucky,reject,1867-01-08,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Virginia,reject,1867-01-09,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,New York,ratify,1867-01-10,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Ohio,ratify,1867-01-11,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Illinois,ratify,1867-01-15,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Michigan,ratify,1867-01-16,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Minnesota,ratify,1867-01-16,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,West Virginia,ratify,1867-01-16,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Kansas,ratify,1867-01-17,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Maine,ratify,1867-01-19,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Nevada,ratify,1867-01-22,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Indiana,ratify,1867-01-23,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Missouri,ratify,1867-01-25,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Louisiana,reject,1867-02-06,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Pennsylvania,ratify,1867-02-06,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Rhode Island,ratify,1867-02-07,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Delaware,reject,1867-02-08,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Wisconsin,ratify,1867-02-13,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Massachusetts,ratify,1867-03-20,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Maryland,reject,1867-03-23,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Nebraska,ratify,1867-06-15,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Ohio,rescind,1868-01-13,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Iowa,ratify,1868-03-16,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,New Jersey,rescind,1868-03-24,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Arkansas,ratify,1868-04-06,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Florida,ratify,1868-06-09,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,North Carolina,ratify,1868-07-04,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Louisiana,ratify,1868-07-09,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,South Carolina,ratify,1868-07-09,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Alabama,ratify,1868-07-13,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Georgia,ratify,1868-07-21,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Oregon,rescind,1868-10-16,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Virginia,ratify_late,1869-10-08,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Mississippi,ratify_late,1870-01-17,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Texas,ratify_late,1870-02-18,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Delaware,ratify_late,1901-02-12,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Maryland,ratify_late,1959-04-04,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,California,ratify_late,1959-05-06,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Oregon,ratify_late,1973-04-25,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Kentucky,ratify_late,1976-03-30,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,Ohio,ratify_late,2003-03-12,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+14,New Jersey,ratify_late,2003-04-23,day,https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Nevada,ratify,1869-03-01,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,West Virginia,ratify,1869-03-03,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Illinois,ratify,1869-03-05,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Louisiana,ratify,1869-03-05,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,North Carolina,ratify,1869-03-05,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Michigan,ratify,1869-03-08,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Wisconsin,ratify,1869-03-09,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Maine,ratify,1869-03-11,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Kentucky,reject,1869-03-12,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Massachusetts,ratify,1869-03-12,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Arkansas,ratify,1869-03-15,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,South Carolina,ratify,1869-03-15,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Delaware,reject,1869-03-18,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Pennsylvania,ratify,1869-03-25,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New York,ratify,1869-04-14,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Ohio,reject,1869-04-30,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Indiana,ratify,1869-05-14,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Connecticut,ratify,1869-05-19,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Florida,ratify,1869-06-14,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New Hampshire,ratify,1869-07-01,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Virginia,ratify,1869-10-08,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Vermont,ratify,1869-10-20,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Alabama,ratify,1869-11-16,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Tennessee,reject,1869-11-16,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New York,rescind,1870-01-05,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Missouri,ratify,1870-01-10,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Minnesota,ratify,1870-01-13,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Mississippi,ratify,1870-01-17,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Rhode Island,ratify,1870-01-18,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Kansas,ratify,1870-01-19,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Ohio,ratify,1870-01-27,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,California,reject,1870-01-28,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Georgia,ratify,1870-02-02,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Iowa,ratify,1870-02-03,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Nebraska,ratify_late,1870-02-17,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Texas,ratify_late,1870-02-18,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Maryland,reject,1870-02-26,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New Jersey,reject,1870-03-18,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Oregon,reject,1870-10-26,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New Jersey,ratify_late,1871-02-15,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Delaware,ratify_late,1901-02-12,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Oregon,ratify_late,1959-02-24,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,California,ratify_late,1962-04-03,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,New York,ratify_late,1970-03-30,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Maryland,ratify_late,1973-05-07,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Kentucky,ratify_late,1976-03-18,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+15,Tennessee,ratify_late,1997-04-08,day,https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Alabama,ratify,1909-08-10,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Kentucky,ratify,1910-02-08,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,South Carolina,ratify,1910-02-19,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Illinois,ratify,1910-03-01,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Mississippi,ratify,1910-03-07,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Oklahoma,ratify,1910-03-10,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Maryland,ratify,1910-04-08,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Georgia,ratify,1910-08-03,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Texas,ratify,1910-08-16,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Ohio,ratify,1911-01-19,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Idaho,ratify,1911-01-20,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Oregon,ratify,1911-01-23,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Washington,ratify,1911-01-26,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Montana,ratify,1911-01-27,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Indiana,ratify,1911-01-30,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,California,ratify,1911-01-31,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Nevada,ratify,1911-01-31,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,South Dakota,ratify,1911-02-01,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Nebraska,ratify,1911-02-09,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,North Carolina,ratify,1911-02-11,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Colorado,ratify,1911-02-15,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,North Dakota,ratify,1911-02-17,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Michigan,ratify,1911-02-23,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Iowa,ratify,1911-02-24,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Kansas,ratify,1911-03-02,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,New Hampshire,reject,1911-03-02,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Missouri,ratify,1911-03-16,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Maine,ratify,1911-03-31,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Tennessee,ratify,1911-04-07,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Arkansas,ratify,1911-04-22,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Wisconsin,ratify,1911-05-16,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,New York,ratify,1911-07-12,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Arizona,ratify,1912-04-03,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Minnesota,ratify,1912-06-11,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Louisiana,ratify,1912-06-28,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,West Virginia,ratify,1913-01-31,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Delaware,ratify,1913-02-03,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,New Mexico,ratify_late,1913-02-03,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Wyoming,ratify_late,1913-02-03,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,New Jersey,ratify_late,1913-02-04,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Vermont,ratify_late,1913-02-19,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,Massachusetts,ratify_late,1913-03-04,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+16,New Hampshire,ratify_late,1913-03-07,day,https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Massachusetts,ratify,1912-05-22,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Arizona,ratify,1912-06-03,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Minnesota,ratify,1912-06-10,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,New York,ratify,1913-01-15,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Kansas,ratify,1913-01-17,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Oregon,ratify,1913-01-23,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,North Carolina,ratify,1913-01-25,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,California,ratify,1913-01-28,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Michigan,ratify,1913-01-28,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Iowa,ratify,1913-01-30,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Montana,ratify,1913-01-30,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Idaho,ratify,1913-01-31,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,West Virginia,ratify,1913-02-04,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Colorado,ratify,1913-02-05,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Nevada,ratify,1913-02-06,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Texas,ratify,1913-02-07,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Washington,ratify,1913-02-07,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Wyoming,ratify,1913-02-08,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Arkansas,ratify,1913-02-11,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Maine,ratify,1913-02-11,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Illinois,ratify,1913-02-13,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,North Dakota,ratify,1913-02-14,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Wisconsin,ratify,1913-02-18,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Indiana,ratify,1913-02-19,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,New Hampshire,ratify,1913-02-19,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,South Dakota,ratify,1913-02-19,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Vermont,ratify,1913-02-19,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Oklahoma,ratify,1913-02-24,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Ohio,ratify,1913-02-25,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Utah,reject,1913-02-26,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Missouri,ratify,1913-03-07,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,New Mexico,ratify,1913-03-13,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Nebraska,ratify,1913-03-14,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,New Jersey,ratify,1913-03-17,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Delaware,reject,1913-03-18,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Tennessee,ratify,1913-04-01,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Pennsylvania,ratify,1913-04-02,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Connecticut,ratify,1913-04-08,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Louisiana,ratify_late,1914-06-11,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Alabama,ratify_late,2002-04-11,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Delaware,ratify_late,2010-07-01,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Maryland,ratify_late,2012-04-01,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+17,Rhode Island,ratify_late,2014-06-20,day,https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Mississippi,ratify,1918-01-07,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Virginia,ratify,1918-01-11,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Kentucky,ratify,1918-01-14,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,North Dakota,ratify,1918-01-25,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,South Carolina,ratify,1918-01-29,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Maryland,ratify,1918-02-13,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Montana,ratify,1918-02-19,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Texas,ratify,1918-03-04,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Delaware,ratify,1918-03-18,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,South Dakota,ratify,1918-03-20,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Massachusetts,ratify,1918-04-02,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Arizona,ratify,1918-05-24,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Georgia,ratify,1918-06-26,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Louisiana,ratify,1918-08-03,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Florida,ratify,1918-11-27,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Michigan,ratify,1919-01-02,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Ohio,ratify,1919-01-07,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Oklahoma,ratify,1919-01-07,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Idaho,ratify,1919-01-08,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Maine,ratify,1919-01-08,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,West Virginia,ratify,1919-01-09,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,California,ratify,1919-01-13,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Tennessee,ratify,1919-01-13,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Washington,ratify,1919-01-13,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Arkansas,ratify,1919-01-14,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Illinois,ratify,1919-01-14,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Indiana,ratify,1919-01-14,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Kansas,ratify,1919-01-14,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Alabama,ratify,1919-01-15,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Colorado,ratify,1919-01-15,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Iowa,ratify,1919-01-15,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,New Hampshire,ratify,1919-01-15,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Oregon,ratify,1919-01-15,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Missouri,ratify,1919-01-16,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Nebraska,ratify,1919-01-16,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,North Carolina,ratify,1919-01-16,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Utah,ratify,1919-01-16,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Wyoming,ratify,1919-01-16,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Minnesota,ratify_late,1919-01-17,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Wisconsin,ratify_late,1919-01-17,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,New Mexico,ratify_late,1919-01-20,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Nevada,ratify_late,1919-01-21,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,New York,ratify_late,1919-01-29,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Vermont,ratify_late,1919-01-29,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,Pennsylvania,ratify_late,1919-02-25,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+18,New Jersey,ratify_late,1922-03-09,day,https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Illinois,ratify,1919-06-10,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Michigan,ratify,1919-06-10,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Wisconsin,ratify,1919-06-10,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Kansas,ratify,1919-06-16,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,New York,ratify,1919-06-16,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Ohio,ratify,1919-06-16,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Pennsylvania,ratify,1919-06-24,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Massachusetts,ratify,1919-06-25,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Texas,ratify,1919-06-28,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Iowa,ratify,1919-07-02,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Missouri,ratify,1919-07-03,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Georgia,reject,1919-07-24,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Arkansas,ratify,1919-07-28,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Montana,ratify,1919-07-30,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Nebraska,ratify,1919-08-02,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Minnesota,ratify,1919-09-08,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,New Hampshire,ratify,1919-09-10,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Alabama,reject,1919-09-22,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Utah,ratify,1919-09-30,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,California,ratify,1919-11-01,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Maine,ratify,1919-11-05,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,North Dakota,ratify,1919-12-01,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,South Dakota,ratify,1919-12-04,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Colorado,ratify,1919-12-12,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Kentucky,ratify,1920-01-06,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Rhode Island,ratify,1920-01-06,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Oregon,ratify,1920-01-12,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Indiana,ratify,1920-01-16,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Wyoming,ratify,1920-01-26,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,South Carolina,reject,1920-01-28,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Nevada,ratify,1920-02-07,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,New Jersey,ratify,1920-02-09,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Idaho,ratify,1920-02-11,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Arizona,ratify,1920-02-12,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Virginia,reject,1920-02-12,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,New Mexico,ratify,1920-02-16,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Oklahoma,ratify,1920-02-23,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Maryland,reject,1920-02-24,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,West Virginia,ratify,1920-03-10,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Washington,ratify,1920-03-22,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Mississippi,reject,1920-03-29,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Delaware,reject,1920-06-02,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Louisiana,reject,1920-07-01,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Tennessee,ratify,1920-08-18,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Connecticut,ratify_late,1920-09-14,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Vermont,ratify_late,1921-02-08,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Delaware,ratify_late,1923-03-06,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Maryland,ratify_late,1941-03-29,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Virginia,ratify_late,1952-02-21,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Alabama,ratify_late,1953-09-08,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Florida,ratify_late,1969-05-13,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,South Carolina,ratify_late,1969-07-01,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Georgia,ratify_late,1970-02-20,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Louisiana,ratify_late,1970-06-11,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,North Carolina,ratify_late,1971-05-06,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+19,Mississippi,ratify_late,1984-03-22,day,https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Virginia,ratify,1932-03-04,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,New York,ratify,1932-03-11,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Mississippi,ratify,1932-03-16,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Arkansas,ratify,1932-03-17,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Kentucky,ratify,1932-03-17,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,New Jersey,ratify,1932-03-21,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,South Carolina,ratify,1932-03-25,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Michigan,ratify,1932-03-31,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Maine,ratify,1932-04-01,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Rhode Island,ratify,1932-04-14,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Illinois,ratify,1932-04-21,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Louisiana,ratify,1932-06-22,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,West Virginia,ratify,1932-07-30,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Pennsylvania,ratify,1932-08-11,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Indiana,ratify,1932-08-15,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Texas,ratify,1932-09-07,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Alabama,ratify,1932-09-13,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,California,ratify,1933-01-04,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,North Carolina,ratify,1933-01-05,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,North Dakota,ratify,1933-01-09,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Minnesota,ratify,1933-01-12,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Arizona,ratify,1933-01-13,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Montana,ratify,1933-01-13,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Nebraska,ratify,1933-01-13,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Oklahoma,ratify,1933-01-13,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Kansas,ratify,1933-01-16,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Oregon,ratify,1933-01-16,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Delaware,ratify,1933-01-19,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Washington,ratify,1933-01-19,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Wyoming,ratify,1933-01-19,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Iowa,ratify,1933-01-20,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,South Dakota,ratify,1933-01-20,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Tennessee,ratify,1933-01-20,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Idaho,ratify,1933-01-21,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,New Mexico,ratify,1933-01-21,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Georgia,ratify_late,1933-01-23,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Missouri,ratify,1933-01-23,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Ohio,ratify_late,1933-01-23,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Utah,ratify_late,1933-01-23,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Colorado,ratify_late,1933-01-24,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Massachusetts,ratify_late,1933-01-24,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Wisconsin,ratify_late,1933-01-24,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Nevada,ratify_late,1933-01-26,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Connecticut,ratify_late,1933-01-27,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,New Hampshire,ratify_late,1933-01-31,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Vermont,ratify_late,1933-02-02,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Maryland,ratify_late,1933-03-24,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+20,Florida,ratify_late,1933-04-26,day,https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Michigan,ratify,1933-04-10,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Wisconsin,ratify,1933-04-25,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Rhode Island,ratify,1933-05-08,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Wyoming,ratify,1933-05-25,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,New Jersey,ratify,1933-06-01,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Delaware,ratify,1933-06-24,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Indiana,ratify,1933-06-26,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Massachusetts,ratify,1933-06-26,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,New York,ratify,1933-06-27,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Illinois,ratify,1933-07-10,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Iowa,ratify,1933-07-10,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Connecticut,ratify,1933-07-11,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,New Hampshire,ratify,1933-07-11,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,California,ratify,1933-07-24,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,West Virginia,ratify,1933-07-25,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Arkansas,ratify,1933-08-01,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Oregon,ratify,1933-08-07,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Alabama,ratify,1933-08-08,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Tennessee,ratify,1933-08-11,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Missouri,ratify,1933-08-29,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Arizona,ratify,1933-09-05,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Nevada,ratify,1933-09-05,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Vermont,ratify,1933-09-23,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Colorado,ratify,1933-09-26,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Washington,ratify,1933-10-03,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Minnesota,ratify,1933-10-10,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Idaho,ratify,1933-10-17,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Maryland,ratify,1933-10-18,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Virginia,ratify,1933-10-25,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,New Mexico,ratify,1933-11-02,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,North Carolina,reject,1933-11-07,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Florida,ratify,1933-11-14,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Texas,ratify,1933-11-24,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Kentucky,ratify,1933-11-27,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,South Carolina,reject,1933-12-04,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Ohio,ratify,1933-12-05,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Pennsylvania,ratify,1933-12-05,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Utah,ratify,1933-12-05,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Maine,ratify_late,1933-12-06,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+21,Montana,ratify_late,1934-08-06,day,https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Maine,ratify,1947-03-31,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Michigan,ratify,1947-03-31,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Iowa,ratify,1947-04-01,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Kansas,ratify,1947-04-01,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,New Hampshire,ratify,1947-04-01,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Delaware,ratify,1947-04-02,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Illinois,ratify,1947-04-03,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Oregon,ratify,1947-04-03,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Colorado,ratify,1947-04-12,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,California,ratify,1947-04-15,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,New Jersey,ratify,1947-04-15,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Vermont,ratify,1947-04-15,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Ohio,ratify,1947-04-16,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Wisconsin,ratify,1947-04-16,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Pennsylvania,ratify,1947-04-29,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Connecticut,ratify,1947-05-21,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Missouri,ratify,1947-05-22,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Nebraska,ratify,1947-05-23,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Virginia,ratify,1948-01-28,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Mississippi,ratify,1948-02-12,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,New York,ratify,1948-03-09,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,South Dakota,ratify,1949-01-21,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,North Dakota,ratify,1949-02-25,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Louisiana,ratify,1950-05-17,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Montana,ratify,1951-01-25,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Indiana,ratify,1951-01-29,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Idaho,ratify,1951-01-30,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,New Mexico,ratify,1951-02-12,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Wyoming,ratify,1951-02-12,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Arkansas,ratify,1951-02-15,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Georgia,ratify,1951-02-17,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Tennessee,ratify,1951-02-20,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Texas,ratify,1951-02-22,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Nevada,ratify,1951-02-26,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Utah,ratify,1951-02-26,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Minnesota,ratify,1951-02-27,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,North Carolina,ratify_late,1951-02-28,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,South Carolina,ratify_late,1951-03-13,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Maryland,ratify_late,1951-03-14,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Florida,ratify_late,1951-04-16,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+22,Alabama,ratify_late,1951-05-04,day,https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Hawaii,ratify,1960-06-23,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Massachusetts,ratify,1960-08-22,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,New Jersey,ratify,1960-12-19,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,New York,ratify,1961-01-17,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,California,ratify,1961-01-19,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Arkansas,reject,1961-01-24,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Oregon,ratify,1961-01-27,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Maryland,ratify,1961-01-30,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Idaho,ratify,1961-01-31,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Maine,ratify,1961-01-31,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Minnesota,ratify,1961-01-31,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,New Mexico,ratify,1961-02-01,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Nevada,ratify,1961-02-02,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Montana,ratify,1961-02-06,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Colorado,ratify,1961-02-08,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Washington,ratify,1961-02-09,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,West Virginia,ratify,1961-02-09,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Alaska,ratify,1961-02-10,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Wyoming,ratify,1961-02-13,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,South Dakota,ratify,1961-02-14,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Delaware,ratify,1961-02-20,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Utah,ratify,1961-02-21,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Wisconsin,ratify,1961-02-21,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Pennsylvania,ratify,1961-02-28,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Indiana,ratify,1961-03-03,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,North Dakota,ratify,1961-03-03,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Tennessee,ratify,1961-03-06,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Michigan,ratify,1961-03-08,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Connecticut,ratify,1961-03-09,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Arizona,ratify,1961-03-10,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Illinois,ratify,1961-03-14,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Nebraska,ratify,1961-03-15,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Vermont,ratify,1961-03-15,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Iowa,ratify,1961-03-16,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Missouri,ratify,1961-03-20,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Oklahoma,ratify,1961-03-21,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Rhode Island,ratify,1961-03-22,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Kansas,ratify,1961-03-29,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Ohio,ratify,1961-03-29,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,New Hampshire,ratify_late,1961-03-30,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+23,Alabama,ratify_late,2002-04-11,day,https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Illinois,ratify,1962-11-14,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,New Jersey,ratify,1962-12-03,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Mississippi,reject,1962-12-20,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Oregon,ratify,1963-01-25,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Montana,ratify,1963-01-28,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,West Virginia,ratify,1963-02-01,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,New York,ratify,1963-02-04,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Maryland,ratify,1963-02-06,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,California,ratify,1963-02-07,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Alaska,ratify,1963-02-11,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Rhode Island,ratify,1963-02-14,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Indiana,ratify,1963-02-19,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Michigan,ratify,1963-02-20,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Utah,ratify,1963-02-20,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Colorado,ratify,1963-02-21,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Minnesota,ratify,1963-02-27,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Ohio,ratify,1963-02-27,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,New Mexico,ratify,1963-03-05,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Hawaii,ratify,1963-03-06,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,North Dakota,ratify,1963-03-07,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Idaho,ratify,1963-03-08,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Washington,ratify,1963-03-14,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Vermont,ratify,1963-03-15,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Nevada,ratify,1963-03-19,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Connecticut,ratify,1963-03-20,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Tennessee,ratify,1963-03-21,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Pennsylvania,ratify,1963-03-25,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Wisconsin,ratify,1963-03-26,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Kansas,ratify,1963-03-28,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Massachusetts,ratify,1963-03-28,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Nebraska,ratify,1963-04-04,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Florida,ratify,1963-04-18,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Iowa,ratify,1963-04-24,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Delaware,ratify,1963-05-01,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Missouri,ratify,1963-05-13,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,New Hampshire,ratify,1963-06-12,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Kentucky,ratify,1963-06-27,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Maine,ratify,1964-01-16,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,South Dakota,ratify,1964-01-23,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Virginia,ratify_late,1977-02-25,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,North Carolina,ratify_late,1989-05-03,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Alabama,ratify_late,2002-04-11,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+24,Texas,ratify_late,2009-05-22,day,https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Nebraska,ratify,1965-07-12,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Wisconsin,ratify,1965-07-13,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Oklahoma,ratify,1965-07-16,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Massachusetts,ratify,1965-08-09,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Pennsylvania,ratify,1965-08-18,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Kentucky,ratify,1965-09-15,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Arizona,ratify,1965-09-22,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Michigan,ratify,1965-10-05,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Indiana,ratify,1965-10-20,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,California,ratify,1965-10-21,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Arkansas,ratify,1965-11-04,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,New Jersey,ratify,1965-11-29,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Delaware,ratify,1965-12-07,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Utah,ratify,1966-01-17,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,West Virginia,ratify,1966-01-20,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Maine,ratify,1966-01-24,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Rhode Island,ratify,1966-01-28,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Colorado,ratify,1966-02-03,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,New Mexico,ratify,1966-02-03,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Kansas,ratify,1966-02-08,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Vermont,ratify,1966-02-10,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Alaska,ratify,1966-02-18,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Idaho,ratify,1966-03-02,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Hawaii,ratify,1966-03-03,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Virginia,ratify,1966-03-08,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Mississippi,ratify,1966-03-10,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,New York,ratify,1966-03-14,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Maryland,ratify,1966-03-23,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Missouri,ratify,1966-03-30,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,New Hampshire,ratify,1966-06-13,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Louisiana,ratify,1966-07-05,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Tennessee,ratify,1967-01-12,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Wyoming,ratify,1967-01-25,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Iowa,ratify,1967-01-26,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Washington,ratify,1967-01-26,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Oregon,ratify,1967-02-02,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Minnesota,ratify,1967-02-10,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Nevada,ratify,1967-02-10,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Connecticut,ratify_late,1967-02-14,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Montana,ratify_late,1967-02-15,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,South Dakota,ratify_late,1967-03-06,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Ohio,ratify_late,1967-03-07,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Alabama,ratify_late,1967-03-14,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Illinois,ratify_late,1967-03-22,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,North Carolina,ratify_late,1967-03-22,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Texas,ratify_late,1967-04-25,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+25,Florida,ratify_late,1967-05-25,day,https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Connecticut,ratify,1971-03-23,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Delaware,ratify,1971-03-23,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Minnesota,ratify,1971-03-23,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Tennessee,ratify,1971-03-23,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Washington,ratify,1971-03-23,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Hawaii,ratify,1971-03-24,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Massachusetts,ratify,1971-03-24,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Montana,ratify,1971-03-29,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Arkansas,ratify,1971-03-30,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Idaho,ratify,1971-03-30,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Iowa,ratify,1971-03-30,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Nebraska,ratify,1971-04-02,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Kansas,ratify,1971-04-07,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Michigan,ratify,1971-04-07,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Alaska,ratify,1971-04-08,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Indiana,ratify,1971-04-08,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Maryland,ratify,1971-04-08,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Maine,ratify,1971-04-09,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Vermont,ratify,1971-04-16,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Louisiana,ratify,1971-04-17,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,California,ratify,1971-04-19,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Colorado,ratify,1971-04-27,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Pennsylvania,ratify,1971-04-27,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Texas,ratify,1971-04-27,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,South Carolina,ratify,1971-04-28,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,West Virginia,ratify,1971-04-28,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,New Jersey,ratify,1971-05-03,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,New Hampshire,ratify,1971-05-13,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Arizona,ratify,1971-05-14,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Rhode Island,ratify,1971-05-27,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,New York,ratify,1971-06-02,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Oregon,ratify,1971-06-04,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Missouri,ratify,1971-06-14,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Wisconsin,ratify,1971-06-22,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Illinois,ratify,1971-06-29,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Alabama,ratify,1971-06-30,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Ohio,ratify,1971-06-30,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,North Carolina,ratify,1971-07-01,day,https://constitutioncenter.org/blog/just-which-state-ratified-the-26th-amendment,ratifications_14_27.csv
+26,Oklahoma,ratify_late,1971-07-01,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Virginia,ratify_late,1971-07-08,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Wyoming,ratify_late,1971-07-08,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,Georgia,ratify_late,1971-10-04,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+26,South Dakota,ratify_late,2014-03-04,day,https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,New Jersey,reject,1789-11-20,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Maryland,ratify,1789-12-19,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,North Carolina,ratify,1789-12-22,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,South Carolina,ratify,1790-01-19,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,New Hampshire,reject,1790-01-26,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Delaware,ratify,1790-01-28,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Rhode Island,reject,1790-06-07,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Vermont,ratify,1791-11-03,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Virginia,ratify,1791-12-15,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Kentucky,ratify,1792-06-27,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Ohio,ratify,1873-05-06,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Wyoming,ratify,1978-03-06,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Maine,ratify,1983-04-27,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Colorado,ratify,1984-04-22,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,South Dakota,ratify,1985-02-21,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,New Hampshire,ratify,1985-03-07,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Arizona,ratify,1985-04-03,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Tennessee,ratify,1985-05-28,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Oklahoma,ratify,1985-07-01,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,New Mexico,ratify,1986-02-14,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Indiana,ratify,1986-02-24,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Utah,ratify,1986-02-25,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Arkansas,ratify,1987-03-13,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Montana,ratify,1987-03-17,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Connecticut,ratify,1987-05-13,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Wisconsin,ratify,1987-07-15,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Georgia,ratify,1988-02-02,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,West Virginia,ratify,1988-03-10,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Louisiana,ratify,1988-07-07,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Iowa,ratify,1989-02-09,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Idaho,ratify,1989-03-23,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Nevada,ratify,1989-04-26,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Alaska,ratify,1989-05-06,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Oregon,ratify,1989-05-19,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Minnesota,ratify,1989-05-22,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Texas,ratify,1989-05-25,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,North Carolina,ratify_late,1989-07-04,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Kansas,ratify,1990-04-05,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Florida,ratify,1990-05-31,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,North Dakota,ratify,1991-03-25,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Alabama,ratify,1992-05-05,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Missouri,ratify,1992-05-05,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Michigan,ratify,1992-05-07,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,New Jersey,ratify,1992-05-07,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Illinois,ratify_late,1992-05-12,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,California,ratify_late,1992-06-26,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Rhode Island,ratify_late,1993-06-10,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Hawaii,ratify_late,1994-04-29,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Washington,ratify_late,1995-04-06,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Kentucky,ratify_late,1996-03-21,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+27,Nebraska,ratify_late,2016-04-01,day,https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution,ratifications_14_27.csv
+U-APPORT,New Jersey,ratify,1789-11-20,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Maryland,ratify,1789-12-19,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,North Carolina,ratify,1789-12-22,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,South Carolina,ratify,1790-01-19,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,New Hampshire,ratify,1790-01-25,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,New York,ratify,1790-02-24,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Rhode Island,ratify,1790-06-07,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Pennsylvania,ratify,1791-09-21,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Vermont,ratify,1791-11-03,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Virginia,ratify,1791-11-03,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Kentucky,ratify,1792-06-27,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-APPORT,Pennsylvania,reject,1790-03-10,day,https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment,ratifications_unratified.csv
+U-NOBILITY,Maryland,ratify,1810-12-25,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Kentucky,ratify,1811-01-31,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Ohio,ratify,1811-01-31,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Delaware,ratify,1811-02-02,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Pennsylvania,ratify,1811-02-06,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,New Jersey,ratify,1811-02-13,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Vermont,ratify,1811-10-24,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Tennessee,ratify,1811-11-21,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,North Carolina,ratify,1811-12-23,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Georgia,ratify,1811-12-31,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Massachusetts,ratify,1812-02-27,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,New Hampshire,ratify,1812-12-09,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Virginia,reject,1811-02-14,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,New York,reject,1812-03-12,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Connecticut,reject,1813-05-13,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-NOBILITY,Rhode Island,reject,1814-09-15,day,https://en.wikipedia.org/wiki/Titles_of_Nobility_Amendment,ratifications_unratified.csv
+U-CORWIN,Kentucky,ratify,1861-04-04,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Ohio,ratify,1861-05-13,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Rhode Island,ratify,1861-05-31,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Maryland,ratify,1862-01-10,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Illinois,ratify,1863-06-02,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Ohio,rescind,1864-03-31,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Maryland,rescind,2014-04-07,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CORWIN,Illinois,rescind,2022-04-04,day,https://en.wikipedia.org/wiki/Corwin_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Arkansas,ratify,1924-06-28,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,California,ratify,1925-01-08,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Arizona,ratify,1925-01-29,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Wisconsin,ratify,1925-02-25,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Montana,ratify,1927-02-11,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Colorado,ratify,1931-04-28,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Oregon,ratify,1933-01-31,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Washington,ratify,1933-02-03,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,North Dakota,ratify,1933-03-04,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Ohio,ratify,1933-03-22,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Michigan,ratify,1933-05-10,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,New Hampshire,ratify,1933-05-17,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,New Jersey,ratify,1933-06-12,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Illinois,ratify,1933-06-30,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Oklahoma,ratify,1933-07-05,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Iowa,ratify,1933-12-05,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,West Virginia,ratify,1933-12-12,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Minnesota,ratify,1933-12-14,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Maine,ratify,1933-12-16,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Pennsylvania,ratify,1933-12-21,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Wyoming,ratify,1935-01-31,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Utah,ratify,1935-02-05,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Idaho,ratify,1935-02-07,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Indiana,ratify,1935-02-08,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Kentucky,ratify,1937-01-13,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Nevada,ratify,1937-01-29,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,New Mexico,ratify,1937-02-12,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Kansas,ratify,1937-02-25,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Georgia,reject,1924-08-06,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,North Carolina,reject,1924-08-23,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Massachusetts,reject,1924-11-04,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Delaware,reject,1925-01-28,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Utah,reject,1925-02-04,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Connecticut,reject,1925-02-11,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,New Hampshire,reject,1925-03-18,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Maine,reject,1925-04-10,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Minnesota,reject,1925-04-14,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Pennsylvania,reject,1925-04-16,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Kentucky,reject,1926-03-24,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-CHILDLAB,Maryland,reject,1927-03-18,day,https://en.wikipedia.org/wiki/Child_Labor_Amendment,ratifications_unratified.csv
+U-ERA,Hawaii,ratify,1972-03-22,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Delaware,ratify,1972-03-23,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,New Hampshire,ratify,1972-03-23,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Idaho,ratify,1972-03-24,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Iowa,ratify,1972-03-24,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Kansas,ratify,1972-03-28,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Nebraska,ratify,1972-03-29,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Texas,ratify,1972-03-30,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Tennessee,ratify,1972-04-04,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Alaska,ratify,1972-04-05,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Rhode Island,ratify,1972-04-14,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,New Jersey,ratify,1972-04-17,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Colorado,ratify,1972-04-21,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,West Virginia,ratify,1972-04-22,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Wisconsin,ratify,1972-04-26,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,New York,ratify,1972-05-18,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Michigan,ratify,1972-05-22,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Maryland,ratify,1972-05-26,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Massachusetts,ratify,1972-06-21,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Kentucky,ratify,1972-06-27,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Pennsylvania,ratify,1972-09-27,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,California,ratify,1972-11-13,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Wyoming,ratify,1973-01-26,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,South Dakota,ratify,1973-02-05,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Minnesota,ratify,1973-02-08,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Oregon,ratify,1973-02-08,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,New Mexico,ratify,1973-02-28,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Vermont,ratify,1973-03-01,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Connecticut,ratify,1973-03-15,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Washington,ratify,1973-03-22,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Maine,ratify,1974-01-18,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Montana,ratify,1974-01-25,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Ohio,ratify,1974-02-07,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,North Dakota,ratify,1975-02-03,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Indiana,ratify,1977-01-18,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Nevada,ratify,2017-03-22,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Illinois,ratify,2018-05-30,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Virginia,ratify,2020-01-27,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Nebraska,rescind,1973-03-15,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Tennessee,rescind,1974-04-23,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Idaho,rescind,1977-02-08,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,Kentucky,rescind,1978-03-17,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,South Dakota,rescind,1979-03-05,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-ERA,North Dakota,rescind,2021-03-19,day,https://en.wikipedia.org/wiki/Equal_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,New Jersey,ratify,1978-09-11,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Michigan,ratify,1978-12-13,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Ohio,ratify,1978-12-21,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Massachusetts,ratify,1979-03-19,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Minnesota,ratify,1979-03-19,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Connecticut,ratify,1979-04-11,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Wisconsin,ratify,1979-11-01,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Maryland,ratify,1980-03-19,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Hawaii,ratify,1980-04-17,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Oregon,ratify,1981-07-06,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Maine,ratify,1983-02-16,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,West Virginia,ratify,1983-02-23,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Rhode Island,ratify,1983-05-13,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Iowa,ratify,1984-01-19,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Louisiana,ratify,1984-06-24,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv
+U-DCVR,Delaware,ratify,1984-06-28,day,https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment,ratifications_unratified.csv

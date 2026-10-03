@@ -1,0 +1,52 @@
+state,postal,admission_date,order,source_url
+Alabama,AL,1819-12-14,22,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Alaska,AK,1959-01-03,49,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Arizona,AZ,1912-02-14,48,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Arkansas,AR,1836-06-15,25,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+California,CA,1850-09-09,31,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Colorado,CO,1876-08-01,38,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Connecticut,CT,1788-01-09,5,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Delaware,DE,1787-12-07,1,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+District of Columbia,DC,,,https://www2.census.gov/geo/docs/reference/state.txt
+Florida,FL,1845-03-03,27,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Georgia,GA,1788-01-02,4,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Hawaii,HI,1959-08-21,50,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Idaho,ID,1890-07-03,43,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Illinois,IL,1818-12-03,21,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Indiana,IN,1816-12-11,19,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Iowa,IA,1846-12-28,29,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Kansas,KS,1861-01-29,34,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Kentucky,KY,1792-06-01,15,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Louisiana,LA,1812-04-30,18,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Maine,ME,1820-03-15,23,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Maryland,MD,1788-04-28,7,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Massachusetts,MA,1788-02-06,6,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Michigan,MI,1837-01-26,26,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Minnesota,MN,1858-05-11,32,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Mississippi,MS,1817-12-10,20,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Missouri,MO,1821-08-10,24,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Montana,MT,1889-11-08,41,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Nebraska,NE,1867-03-01,37,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Nevada,NV,1864-10-31,36,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+New Hampshire,NH,1788-06-21,9,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+New Jersey,NJ,1787-12-18,3,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+New Mexico,NM,1912-01-06,47,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+New York,NY,1788-07-26,11,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+North Carolina,NC,1789-11-21,12,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+North Dakota,ND,1889-11-02,39,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Ohio,OH,1803-03-01,17,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Oklahoma,OK,1907-11-16,46,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Oregon,OR,1859-02-14,33,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Pennsylvania,PA,1787-12-12,2,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Rhode Island,RI,1790-05-29,13,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+South Carolina,SC,1788-05-23,8,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+South Dakota,SD,1889-11-02,40,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Tennessee,TN,1796-06-01,16,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Texas,TX,1845-12-29,28,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Utah,UT,1896-01-04,45,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Vermont,VT,1791-03-04,14,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Virginia,VA,1788-06-25,10,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Washington,WA,1889-11-11,42,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+West Virginia,WV,1863-06-20,35,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Wisconsin,WI,1848-05-29,30,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
+Wyoming,WY,1890-07-10,44,https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union
