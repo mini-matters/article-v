@@ -3,7 +3,7 @@
 Code and data for a working paper by Timothy J. Miano that restates Article V's three-quarters ratification rule, and every ratification since 1788, in population and state legislators.
 
 - Site: https://articlevmeasured.pages.dev (overview, fact sheet, methods and limitations)
-- Launch post: https://estateofbits.substack.com
+- Estate of Bits: https://estateofbits.substack.com
 
 Working paper; not peer reviewed.
 
@@ -45,7 +45,7 @@ This work reproduces and extends Peter Suber, *Population Changes and Constituti
 
 ## Corrections
 
-Reply to the launch post on Estate of Bits, or open an issue here, with the item and a source.
+Reply on [Estate of Bits](https://estateofbits.substack.com) or open an issue here, with the item and a source.
 
 ## Cite
 
